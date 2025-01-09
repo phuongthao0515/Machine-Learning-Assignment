@@ -1,8 +1,8 @@
-# Transformer Architecture: Analysis and Application to Machine Translation
+# Transformer Architecture: Architecture and Application to Machine Translation
 
 ## Overview
 
-This work focuses on analyzing and understanding the components and architecture of the Transformer model. It specifically examines the Transformer through the lens of **machine translation** and compares its performance and characteristics with other models and approaches that have been used to solve the same problem.
+This work focuses on analyzing and understanding the components and architecture of the Transformer model, with specific focus on the attention mechanism. It specifically examines the Transformer through the lens of **machine translation** and compares its performance and characteristics with other models and approaches that have been used to solve the same problem.
 
 ## Key Concepts
 
