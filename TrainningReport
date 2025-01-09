@@ -1,0 +1,4 @@
+Since the training take a huge time so we let it run in Kaggle, and didn't run a new version in Git. Below is the link to the notebook:
+Notebook: https://www.kaggle.com/code/wafair43/transformer-for-mt
+Version run epoch0 (version 3 of the notebook):  https://www.kaggle.com/code/wafair43/transformer-attention-is-all-you-need-detailed
+Version run epoch1 (version 1 of the notebool): https://www.kaggle.com/code/wafair43/transformer-for-mt
